@@ -15,6 +15,15 @@ _Eur J Nucl Med Mol Imaging_, 2025
 
 This work introduces fast and robust deep learning-based alternatives using dose-domain training on a relatively large patient dataset (n=190), leveraging a Swin UNETR model with transformer-based encoding.
 
+## 🏥 Clinical Context
+These models are beneficial in:
+
+Standalone SPECT systems without CT
+
+Hospitals lacking GPU access for MC simulations
+
+Reducing processing time (from ~80 min to ~20 sec/GPU or ~6 min/CPU)
+
 ---
 ## Download Trained Models
 
