@@ -33,7 +33,7 @@ https://drive.google.com/drive/folders/1FfzE_-_-mxiG6lyi4ap_JN6VlnThFfsd?usp=sha
 
 To install this repository, simply run:
 
-pip install git+https:
+pip install git+https://github.com/ZahraMansouriMedPhys/DL-90Y-SPECT-Correction.git
 
 We welcome any feedback, suggestions, or contributions to improve this project!
 
