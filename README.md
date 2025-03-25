@@ -2,8 +2,8 @@
 
 This repository provides deep learning models developed for **CT-free attenuation correction (AC)**, **Monte Carlo-based scatter correction (SC)**, and **combined attenuation and scatter correction (ASC)** in **90Y bremsstrahlung SPECT imaging**, using a Swin UNETR architecture. These models were trained on dose maps to improve **voxel-wise and organ-level dosimetry** for patients undergoing radioembolization (RE) or Selective Internal Radiation Therapy (SIRT).
 
-🧠 **Reference publication**:  
-Read the related publication for more information:  
+🧠 **Read the refernce publication for more information:**:  
+
 Mansouri Z., Salimi Y., Bianchetto Wolf N., Mainta I., Zaidi H.  
 *CT-free attenuation and Monte-Carlo based scatter correction-guided quantitative 90Y-SPECT imaging for improved dose calculation using deep learning*  
 _Eur J Nucl Med Mol Imaging_, 2025  
